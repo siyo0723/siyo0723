@@ -26,7 +26,7 @@
 </a>
 <a href="https://instagram.com/mj_0v0_33?igshid=YmMyMTA2M2Y=">
     <img src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://Instagram.com/mj_0v0_33?igshid=YmMyMTA2M2Y="
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/><br>
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyo0723&show_icons=true&theme=radical)
