@@ -6,7 +6,7 @@
 ● 팀 단위의 프로젝트 만들어보기
 
 <h3>🖱️Tool🖱️</h3>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white" />
 <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white" />
