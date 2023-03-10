@@ -1,9 +1,9 @@
 <h3>🎶Start🎶</h3>
-22살 FE의 꿈을 가져 천천히 시작해보려고 합니다:)
+22살 FE의 꿈을 가지고 천천히 시작해보려고 합니다:)
 
 <h3>✨Goal✨</h3>
-직접 구상한 웹사이트 토이프로젝트로 완성해보기<br>
-팀 단위의 프로젝트 만들어보기
+● 직접 구상한 웹사이트 토이프로젝트로 완성해보기<br>
+● 팀 단위의 프로젝트 만들어보기
 
 <h3>🖱️Tool🖱️</h3>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
