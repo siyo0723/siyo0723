@@ -1,8 +1,5 @@
-<h3>🎶Start🎶</h3>
--Mar.2023/22!
-
 <h3>✨Goal✨</h3>
-● FE
+● CS의 지식을 갖춘 Front Dev가 되기를 목표합니다.
 
 <h3>🖱️Tool🖱️</h3>
 <p align="left">
