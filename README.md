@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JS&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
 </p>
 
 <h3>📝Contact📝</h3>
@@ -29,5 +30,8 @@
     <img src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://Instagram.com/mj_0v0_33?igshid=YmMyMTA2M2Y="
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+<a href="https://velog.io/@codingsnail">
+    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@siyo0723"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyo0723&show_icons=true&theme=radical)
